@@ -11,10 +11,10 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
     <meta charset="utf8">
 
 
-    <h1 id="Glosario de terminos filosaficos" style="color:#D7BDE2";><center> Glosario de terminos filosaficos</center></h1>
+    <h1 id="Glosario de términos filosóficos" style="color:#D7BDE2";><center> Glosario de términos filosóficos</center></h1>
     
 
-<img src="https://www.alfabetizaciondigital.redem.org/wp-content/uploads/2018/01/filos-2100x1200.jpg" height="500" width="1425" Alt:"Dibujo en blanco y negro con fondo naranja claro. Un hombre sube por las escaleras dirijiendose, a un gran craneo donde hay muchos libros, mientras pierde letras de su cabeza.">
+<img src="https://www.alfabetizaciondigital.redem.org/wp-content/uploads/2018/01/filos-2100x1200.jpg" height="500" width="1425" Alt:"Dibujo en blanco y negro con fondo naranja claro. Un hombre sube por las escaleras dirigiendose, a un gran craneo donde hay muchos libros, mientras pierde letras de su cabeza.">
 
 
 </head>
@@ -32,7 +32,7 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
 
 
 <p id="A"><font size=+1"><b style="color:#D7BDE2";>A</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -44,11 +44,11 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
 <dt>AGENTE (lat. agens): El que obra o actúa, por contraposición a quien sufre, recibe o padece la acción. ENTENDIMIENTO AGENTE (vid. ENTENDIMIENTO).</df><br></br>
 <dt>AGIBLE:</dt> <df>Lo que puede hacerse en el orden del espíritu (un proyecto, un propósito, etcétera). Se relaciona con lo FACTIBLE (vid.).</df><br></br>
 <dt>AGNOSIA:</dt> <df>Actitud de quien confiesa -y afirma- no saber nada. Enfermedad de la memoria consistente en no reconocer ni localizar el recuerdo, en verlo todo como nuevo.</df><br></br>
-<dt>AGNOSTICISMO:</dt> <df>Actitud que niega la posibilidad de un determinado conocimiento (agnosticismo metafísico, valoral, etcétera). Se dice eminentemente en lo que se refiere al conocimiento de la existencia de Dios. Los agnósticos en ese sentido no niegan, como los ateos, la existencia de Dios, sino sólo el que pueda ser conocido sensible, racionalmente o de cualquier otra forma.</df><br></br>
+<dt>AGNOSTICISMO:</dt> <df>Actitud que niega la posibilidad de un determinado conocimiento (agnosticismo metafísico, valorar, etcétera). Se dice eminentemente en lo que se refiere al conocimiento de la existencia de Dios. Los agnósticos en ese sentido no niegan, como los ateos, la existencia de Dios, sino sólo el que pueda ser conocido sensible, racionalmente o de cualquier otra forma.</df><br></br>
 
 
 <p id="B"><font size=+1"><b style="color:#D7BDE2";>B</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -58,7 +58,7 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
 
 
 <p id="C"><font size=+1"><b style="color:#D7BDE2";>C</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filósaficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -69,7 +69,7 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
 
 
 <p id="D"><font size=+1"><b style="color:#D7BDE2";>D</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -80,7 +80,7 @@ Vamos a crear un pequeño glosario de términos, con la cantidad de términos ju
 
 
 <p id="E"><font size=+1"><b style="color:#D7BDE2";>E</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -92,87 +92,87 @@ EMPIRICO:</dt> <df>Lo referente a la experiencia sensible.</df><br></br>
 
 
 <p id="F"><font size=+1"><b style="color:#D7BDE2";>F</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosáficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 <dt>FACTICO:</dt> <df>Condición de existente o de ser "de hecho" (de facto), a diferencia de los entes de razón, los meramente posibles o los en potencia.</df><br></br>
-<dt>FENOMENISMO:</dt> <df>Teoría conexa con el EMPIRISMO (vid.) -Hume especialmente-, que admite sólo como justificable empíricamente los puros tenido caótico sensorial y un factor formal-categorial.</df><br></br>
-<dt>FILANTROPIA:</dt> <df>Amistad o amor del hombre hacia los otros humanos. Algunos sistemas éticos pretenden basar el deber moral en este impulso y sentimiento (humanitarismos, filantropismos morales de la solidaridad).</df><br></br>
+<dt>FENOMENISMO:</dt> <df>Teoría conexa con el EMPIRISMO (vid.) -Hume especialmente-, que admite sólo cómo justificable empíricamente los puros tenido caótico sensorial y un factor formal-categorial.</df><br></br>
+<dt>FILANTROPIA:</dt> <df>Amistad o amor del hombre hacia los otros humanos. Algunos sistemas éticos pretenden basar el deber moral en este impulso y sentimiento (humanitarismos, filantrópismos morales de la solidaridad).</df><br></br>
 
 
 <p id="G"><font size=+1"><b style="color:#D7BDE2";>G</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 <p id="H"><font size=+1"><b style="color:#D7BDE2";>H</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="I"><font size=+1"><b style="color:#D7BDE2";>I</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="J"><font size=+1"><b style="color:#D7BDE2";>J</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="K"><font size=+1"><b style="color:#D7BDE2";>K</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="L"><font size=+1"><b style="color:#D7BDE2";>L</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="M"><font size=+1"><b style="color:#D7BDE2";>M</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="N"><font size=+1"><b style="color:#D7BDE2";>N</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="O"><font size=+1"><b style="color:#D7BDE2";>O</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="P"><font size=+1"><b style="color:#D7BDE2";>P</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="Q"><font size=+1"><b style="color:#D7BDE2";>Q</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -180,48 +180,48 @@ EMPIRICO:</dt> <df>Lo referente a la experiencia sensible.</df><br></br>
 
 
 <p id="S"><font size=+1"><b style="color:#D7BDE2";>S</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="U"><font size=+1"><b style="color:#D7BDE2";>U</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 <p id="V"><font size=+1"><b style="color:#D7BDE2";>V</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="W"><font size=+1"><b style="color:#D7BDE2";>W</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="X"><font size=+1"><b style="color:#D7BDE2";>X</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
 
 
 <p id="Y"><font size=+1"><b style="color:#D7BDE2";>Y</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
  
 
 <p id="Z"><font size=+1"><b style="color:#D7BDE2";>Z</b></p>
-<p align=right> <a href="#Glosario de terminos filosaficos"><button style="background-color:#D7BDE2">
+<p align=right> <a href="#Glosario de términos filosóficos"><button style="background-color:#D7BDE2">
 <b style="color:#F5EEF8">INICIO</b>
 <width="25" height="10">
 </button></p></a>
@@ -234,7 +234,7 @@ EMPIRICO:</dt> <df>Lo referente a la experiencia sensible.</df><br></br>
 
 <footer>
 
-    <b><i style="color:#F5EEF8";>Contenido sacado de </b></i><a href="http://www.filosofia.net/materiales/rec/glosario.htm" style="color:#F5EEF8"; tilltle="Filosofía"><i>Glosario de Conceptos filosóficos</i></a>
+    <b><i style="color:#F5EEF8";>Contenido sacado de </b></i><a href="http://www.filosofia.net/materiales/rec/glosario.htm" style="color:#F5EEF8"; tiltle="Filosofía"><i>Glosario de Conceptos filosóficos</i></a>
 
 </footer>
 
